@@ -1,5 +1,56 @@
 {
   "login": {
     "token": "AAAKAKSDNFNCJN12L435L53J5"
-  }
+  },
+  "usuarios": [
+      {
+          "primerNombre": "Brayan",
+          "segundoNombre": "Andres",
+          "primerApellido": "Gallego",
+          "segundoApellido": "Cadona",
+          "cedula": 1020455974
+      },
+      {
+          "primerNombre": "Jose",
+          "segundoNombre": "Daniel",
+          "primerApellido": "Osorio",
+          "segundoApellido": "Morales",
+          "cedula": 1088302627
+      },
+      {
+          "primerNombre": "Ricardo",
+          "segundoNombre": null,
+          "primerApellido": "Morales",
+          "segundoApellido": "Morales",
+          "cedula": 1022359810
+      },
+      {
+          "primerNombre": "Andres",
+          "segundoNombre": "Raul",
+          "primerApellido": "Moreno",
+          "segundoApellido": "Lopez",
+          "cedula": 1143127766
+      },
+      {
+          "primerNombre": "Galvis",
+          "segundoNombre": "Antonio",
+          "primerApellido": "Herrera",
+          "segundoApellido": "Guerrero",
+          "cedula": 1129573696
+      },
+      {
+          "primerNombre": "Sergio",
+          "segundoNombre": "David",
+          "primerApellido": "Arcon",
+          "segundoApellido": "Jimenes",
+          "cedula": 1046813931
+      },
+        {
+          "primerNombre": "Jonathan",
+          "segundoNombre": "De Jesus",
+          "primerApellido": "Flerez",
+          "segundoApellido": "Diaz",
+          "cedula": 1045723635
+      }
+  ]
 }
